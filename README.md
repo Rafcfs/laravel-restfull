@@ -24,11 +24,11 @@ Durante o desenvolvimento, fora utilizado a Plataforma **Postman** para a execu�
 
 Com o host padrão "http://127.0.0.1:8000", teremos as rotas para a execução das api:
 
-http://localhost:8000/api/produtos
-http://localhost:8000/api/campanhas
-http://localhost:8000/api/descontos
-http://localhost:8000/api/grupos
-http://localhost:8000/api/cidades
+#### http://localhost:8000/api/produtos
+#### http://localhost:8000/api/campanhas
+#### http://localhost:8000/api/descontos
+#### http://localhost:8000/api/grupos
+#### http://localhost:8000/api/cidades
 
 Acrescente um Id após as rotas para selecionar, editar e deletar um dado em expecífico.
 Por exemplo: 
