@@ -4,9 +4,9 @@
 
 ### Versões:
 
-PHP 8.1.2
-Composer version 2.3.7
-Laravel Framework 9.19.0
+#### PHP 8.1.2
+#### Composer version 2.3.7
+#### Laravel Framework 9.19.0
 
 ### Conexão Banco de Dados:
 
